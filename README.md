@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kopaing
-- 👀 I’m interested in code, robot, electric, and gadgets.
-- 🌱 I’m currently learning android software.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi Dear 👋
+I am a software programmer.👨‍💻 My name is Kopaing. I love creating unique and new things that were not made before. Maybe that's why I work harder than usual.😃 I have been designing Telegram robots for some time. Thankful ❤
 
-<!---
-kopainggyi/kopainggyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Get in touch with me
+Telegram => JOSH
